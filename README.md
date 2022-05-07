@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @almightyslab
+- 👀 I’m interested in making game engines.
+- 🌱 I’m currently learning C.
